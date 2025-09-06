@@ -32,16 +32,20 @@ ai-comm-assistant/
 ## 📸 Screenshots  
 
 ### 📨 Email List  
-![Email List](screenshots/email-list.png)  
+<img width="1919" height="936" alt="email-list png" src="https://github.com/user-attachments/assets/8964e105-4742-4750-b49f-b8287f3ea3b3" />
+
 
 ### 🔍 Email Summary  
-![Email Summary](screenshots/email-summary.png)  
+<img width="1919" height="1079" alt="email-summary png" src="https://github.com/user-attachments/assets/8255a124-8d9a-4128-89c8-3413a765ddd7" />
+
 
 ### 🏷️ Email Classification  
-![Classification](screenshots/classify.png)  
+<img width="1918" height="1035" alt="Screenshot 2025-09-06 020743" src="https://github.com/user-attachments/assets/9d2ceefe-d968-4bbb-b68b-3c735e99581d" />
+
 
 ### ✍️ Draft Reply  
-![Draft Reply](screenshots/draft-reply.png)  
+<img width="1919" height="1079" alt="draft-reply png" src="https://github.com/user-attachments/assets/48e67525-09bb-4102-9f52-47b65e484e8f" />
+
 
 ---
 
